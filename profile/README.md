@@ -10,7 +10,7 @@ The Pereira lab uses systems and synthetic biology approaches to engineer microb
 
 ## About Us
 
-- **Principal Investigator:** [Filipa Barroso Pereira, Ph.D.]
+- **Principal Investigator:** Filipa Barroso Pereira, Ph.D.
 - **Institution:** University of Michigan
 - **Department:** Life Sciences Institute
 - **Website:** [Lab Website](https://www.lsi.umich.edu/science/our-labs/filipa-pereira-lab)
